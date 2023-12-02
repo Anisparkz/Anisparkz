@@ -10,18 +10,21 @@ I'm a 17 year old begineer web developer who loves to explore different types of
 - HTML, CSS, JavaScript, Bootstrap
 - GitHub, VS Code
 
+## 😄 Fun fact
+
+- I'm a huge fan of anime and games. My favorite series are Naruto and ReZero and my favorite games are PUBG Mobile,  Honkai Star Rail and some SUPERCELL games.
+```
+<!---
+
 ## 📫 How to reach me
 
 - [LinkedIn]: Connect with me on LinkedIn for professional networking.
 - [Twitter]: Follow me on Twitter for updates and discussions on web development and technology.
 - [Email]: Send me an email for any queries or feedback.
 
-## 😄 Fun fact
 
-- I'm a huge fan of anime and games. My favorite series are Naruto and ReZero and my favorite games are PUBG Mobile,  Honkai Star Rail and some SUPERCELL games.
 
-```
-<!---
+
 ## 📚 Projects and Blogs
 
 - [Portfolio Website]: A personal website to showcase my skills and projects.
