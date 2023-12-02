@@ -3,7 +3,7 @@ Here is a possible README.md file for your GitHub profile:
 ```text
 # Hi, I'm Aditya Shrivastava 👋
 
-I'm a begineer web developer who loves to explore different types of computer technologies. 
+I'm a 17 year old begineer web developer who loves to explore different types of computer technologies. 
 
 ## 🛠️ Skills and Tools
 
@@ -20,10 +20,10 @@ I'm a begineer web developer who loves to explore different types of computer te
 
 - I'm a huge fan of anime and games. My favorite series are Naruto and ReZero and my favorite games are PUBG Mobile,  Honkai Star Rail and some SUPERCELL games.
 
-
-
-## 📚 Projects and Blogs
+```
 <!---
+## 📚 Projects and Blogs
+
 - [Portfolio Website]: A personal website to showcase my skills and projects.
 - [Todo App]: A simple web app to manage your daily tasks using React and Node.js.
 - [Face Detection]: A machine learning project to detect faces in images using OpenCV and Python.
